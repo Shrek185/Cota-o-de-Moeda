@@ -75,3 +75,5 @@ if __name__ == "__main__":
 
 # Iniciando o loop da interface gráfica
 janela.mainloop()
+
+print(texto_cotacoes)
